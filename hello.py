@@ -1,2 +1,2 @@
-print("Hello, I am shubhdeep Gupta")
+prin("Hello, I am shubhdeep Gupta")
 
